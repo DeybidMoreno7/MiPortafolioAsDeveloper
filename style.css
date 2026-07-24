@@ -3,19 +3,26 @@
     font-family: "Trebuchet MS", "Segoe UI", Arial, sans-serif;
     margin: 0;
     padding: 0;
+    
 }
 body{
-    background-color:#3C6997;
+    background-color:#14243A;
 }
 #cabeceraPag{
     text-align: center;
     padding: 40px; 
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 2rem;
 }
 #barraNav{
-    background-color: #EED8B0;/* color lindo→ #00487C color °°/M→ #0F60C3*/
+    background-color: #FFD482;/* color lindo→ #00487C color °°/M→ #0F60C3*/
     width: 100%;
     height: 6rem;
     border-radius: 24px;
+    color: black;
+    font-weight: bold;
+    font-size: 1.8rem;
 }
 #listaNav{
     display: flex;
