@@ -7,6 +7,7 @@
 }
 body{
     background-color:#14243A;
+    line-height: 1.6; /*espacio vertical entre renglones*/
 }
 #cabeceraPag{
     text-align: center;
