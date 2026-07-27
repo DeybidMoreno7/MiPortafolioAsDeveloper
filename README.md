@@ -2,4 +2,4 @@
 Repositorio para alojar mi portafolio como desarrollador.
 
 
-Figma Design→ 
+Figma Design→ https://www.figma.com/design/jl85PBFByCCKPcjTfwnBqy/Untitled?node-id=0-1&t=BA85E8ruwMTDPCPd-1
